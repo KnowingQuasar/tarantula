@@ -1,0 +1,6 @@
+*.csv
+/target/
+/.apt_generated/
+/.apt_generated_tests/
+/generated_jacoco_reports/
+/lib/
