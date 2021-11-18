@@ -4,3 +4,8 @@
 /.apt_generated_tests/
 /generated_jacoco_reports/
 /lib/
+/.settings/
+/.vscode/
+.classpath
+.project
+.factorypath
